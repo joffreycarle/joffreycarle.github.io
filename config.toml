@@ -1,4 +1,4 @@
-baseURL = 'https://joffreycarle.github.io/'
+baseURL = 'https://joffreycarle.github.io'
 languageCode = 'en-us'
 title = 'Joffrey Carle - Freelance Developer'
 theme = 'archie'
